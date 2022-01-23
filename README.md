@@ -2,13 +2,13 @@
 
 ## 实验环境
 
-pytorch 1.9 
-python 3.8 
-ubuntu 16.04 
+pytorch 1.9
+python 3.8
+ubuntu 16.04
 
 ## 数据集下载
 
-实验使用 Imagenet 数据集, 下载地址:  https://image-net.org/
+实验使用 Imagenet-1k 数据集 <a href ='https://image-net.org/'>下载链接</a>
 
 ## 运行方式
 
