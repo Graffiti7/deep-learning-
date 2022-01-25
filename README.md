@@ -2,7 +2,8 @@
 
 ## 模型示意图
 
-模式示意图借助
+<p>模式示意图借助 <a herf='https://github.com/HarisIqbal88/PlotNeuralNet'>PlotNeuralNet</a> 工具绘制</p>
+
 <p align="center"><img  src="https://github.com/Graffiti7/deep-learning-/blob/master/mutli-head.png?raw=true" width="85%" height="85%"></p>
 
 
