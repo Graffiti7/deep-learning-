@@ -2,8 +2,7 @@
 
 ## 模型示意图
 
-<img src="./multi-head.pdf"></img>
-
+<p align="center"><img  src="https://github.com/Graffiti7/deep-learning-/blob/master/multi-head.pdf" width="85%" height="85%"></p>
 
 
 ## 实验环境
